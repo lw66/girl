@@ -1,5 +1,5 @@
 package com.imooc.aspect;
-//AOP
+//AO
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.annotation.*;
 import org.slf4j.Logger;
